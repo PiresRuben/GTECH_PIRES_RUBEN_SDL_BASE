@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\rpires\source\repos\Project2\Project2\main.c(25,12): warning C4026: fonction déclarée avec une liste de paramètres formels
+C:\Users\rpires\source\repos\Project2\Project2\main.c(39,11): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\rpires\source\repos\Project2\Project2\main.c(102,25): warning C4244: 'fonction' : conversion de 'double' en 'Uint32', perte possible de données
+  Project2.vcxproj -> C:\Users\rpires\source\repos\Project2\x64\Debug\Project2.exe
